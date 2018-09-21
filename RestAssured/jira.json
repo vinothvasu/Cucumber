@@ -1,0 +1,15 @@
+{
+   "fields": {
+    "project": {
+          "id": "10000",
+          "key": "PP",
+          "name": "POSTMAN Project"
+        },
+        "summary": "Issue created through POSTMAN",
+            "issuetype": 
+                {
+                    "id": "10004"
+                }
+            
+        }
+}

@@ -1,0 +1,5 @@
+package runner;
+
+public class TestNG_RunCuck {
+
+}

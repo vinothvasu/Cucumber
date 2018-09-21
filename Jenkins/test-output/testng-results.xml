@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="66902" started-at="2017-12-16T12:30:14Z" finished-at="2017-12-16T12:31:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="66902" started-at="2017-12-16T12:30:14Z" finished-at="2017-12-16T12:31:21Z">
+      <class name="training.ParallelWithGridRunLeafOrgApp">
+        <test-method status="PASS" signature="invoke(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:training.ParallelWithGridRunLeafOrgApp@5b275dab]" name="invoke" is-config="true" duration-ms="32291" started-at="2017-12-16T18:00:14Z" finished-at="2017-12-16T18:00:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[066db1760adf9768]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[6.0.1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invoke -->
+        <test-method status="PASS" signature="update()[pri:0, instance:training.ParallelWithGridRunLeafOrgApp@5b275dab]" name="update" duration-ms="29205" started-at="2017-12-16T18:00:46Z" finished-at="2017-12-16T18:01:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update -->
+        <test-method status="PASS" signature="close()[pri:1, instance:training.ParallelWithGridRunLeafOrgApp@5b275dab]" name="close" duration-ms="5378" started-at="2017-12-16T18:01:15Z" finished-at="2017-12-16T18:01:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- training.ParallelWithGridRunLeafOrgApp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
